@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "user": "jeff",
+            "pass": "123"
+        },
+        {
+            "user": "adam",
+            "pass": "eve"
+        },
+        {
+            "user": "jill",
+            "pass": "j4ck"
+        }
+    ]
+}
